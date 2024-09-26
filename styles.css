@@ -1,13 +1,19 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
-}
-
 h1 {
-    color: brown;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 700; /* Bold for the h1 headings */
+    font-style: bold;
+    color: #802B00; /* Custom color for h1 */
 }
 
-p {
-    font-size: 14px;
+h2 {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 500; /* Medium weight for h2 headings */
+    font-style: bold;  /* Ensures it is bold */
+    color: #000000; /* Black color for h2 */
+}
+
+body, p {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 300; /* Lighter weight for normal text */
+    color: #000000; /* Black color for body and paragraphs */
 }
