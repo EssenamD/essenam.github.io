@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 
 
-[![Essenam Dorkenu](Esse_Dork_Picture.png "Essenam Dorkenu")](https://essenamd.github.io/)
+[![Essenam Dorkenu](Esse_D_img.jpg "Essenam Dorkenu")](https://essenamd.github.io/)
 
 <link rel="stylesheet" type="text/css" href="styles.css">
 
@@ -12,6 +12,6 @@
 **Marketing Practitioner** -  Develop products and realign business models that prioritize social impact and sustainable development.  
 **Entrepreneur** - Korah Foods LTD, Caracal Eats Network  
 
-## PROJECTS  
+## MY WORK
 
-- [Policy Briefs](project.md)
+- [Writing Samples](project.md)
