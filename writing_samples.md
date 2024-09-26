@@ -1,4 +1,4 @@
-![Banner Image](writing samples img.png){.banner}
+<img src="writing samples img.png" class="banner" alt="Banner Image">
 
 ## WRITING SAMPLES
 

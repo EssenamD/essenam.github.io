@@ -1,3 +1,4 @@
+<img src="Computational Social Science hdimg.png" class="banner" alt="Banner Image">
 ![Banner Image](Computational Social Science hdimg.png){.banner}
 
 ## PROJECT 1 - CSS - FALL 2024
