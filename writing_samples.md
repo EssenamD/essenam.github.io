@@ -1,3 +1,4 @@
+![Banner Image](writing samples img.png){.banner}
 
 ## WRITING SAMPLES
 
