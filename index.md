@@ -14,4 +14,5 @@
 
 ## MY WORK
 
+- [CSS 2024 Projects](projects.md)
 - [Writing Samples](writing_samples.md)
