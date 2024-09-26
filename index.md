@@ -14,4 +14,4 @@
 
 ## MY WORK
 
-- [Writing Samples](project.md)
+- [Writing Samples](writing_samples.md)
