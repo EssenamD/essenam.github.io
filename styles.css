@@ -8,9 +8,9 @@
 
 
 img {
-    max-width: 200px; /* Adjust the size to your desired width */
-    height: 350px;     /* Keep the aspect ratio */
-    border-radius: 5%; /* This makes the image rounded */
+    max-width: 350px; /* Adjust the size to your desired width */
+    height: 370px;     /* Keep the aspect ratio */
+    border-radius: 2%; /* This makes the image rounded */
     border: 2px solid #802B00; /* Optional: Add a border with the h1 color */
     display: block; /* Centers the image if inside a block element */
     margin: 0 auto; /* Centers the image horizontally */
